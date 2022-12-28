@@ -1,7 +1,10 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\wp-content",
+    "\\wp-content\\uploads",
+    "\\wp-content\\uploads\\2022",
+    "\\wp-content\\uploads\\2022\\07"
   ],
-  "SelectedNode": "\\index.html",
   "PreviewInSolutionExplorer": false
 }
